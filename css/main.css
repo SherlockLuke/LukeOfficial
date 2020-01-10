@@ -98,13 +98,13 @@ color: #d72f01;
   color: #7b8937;;
 }
 
-#container #two h2 span {
+#container #two h2 a {
 color: #d72f01;
 }
 
-#container #two #about {
+/* #container #two #about {
 
-}
+} */
 
 #container #two #about p {
 padding: 20px 0;
